@@ -1,4 +1,8 @@
-## Reimagine the reality.
+# Karn & Co.
+## A non-real corporation by [@Raghav Karn](https://github.com/raghav-karn)
+#### Help us revamp the world with revolutions, build an empire of perfectionism.
+
+
 
 <!--
 
