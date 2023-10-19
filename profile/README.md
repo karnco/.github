@@ -1,23 +1,25 @@
-# Karn & Co. α
-## A non-real corporation (as of now) by [@Raghav Karn](https://github.com/raghav-karn).
+# `α` Karn & Co.
+### A non-real *(as of now)* corporation by [`@Raghav Karn`](https://github.com/raghav-karn).
 
-#### We can be the next ones to dent the universe, make groundbreaking impacts. Here's our motives and beliefs:
-- Strive for **Perfection**. A product not perfect is a bad product.
-> "If you want to do something in your lives, why not make it beautiful?"
+We can be the next ones to *dent the universe*, make groundbreaking impacts. Here's our motives and beliefs:
+- Strive for **Perfection**. A product not perfect is a *bad* product.
+> "If you want to do something in your lives, why not make it *beautiful*?"
 - Be **creative** with workarounds, avoid compromises.
-- **Simple and minimal design** is the best design.
+- **Simple and minimal design** is the best design. Material design is not bad.
 > "Simplicity is ultimate sophistication."
 - Remember,
-> "Nothing is impossible. Even 'impossible' says, 'I am Possible.'"
+> "Nothing is impossible. Even 'impossible' says, 'I'm possible.'"
 
+---
 
 Join us and embark on this harsh yet beautiful journey of time, of creating lives and a new world. The bittersweet life!
 
-`PS:` We are not a "help in disasters" or "build lives, help poor" kind of company. We build electronics.
+`PS:` We are not a "help in disasters" or "build lives, help poor" kind of company. We innovate tech, the future.
 
 - [ ] Let's do it!
 
-### — Raghav Karn, found, owner & CEO at [Karn & Co.](https://github.com/karnco) 
+### — Raghav Karn, founder, owner & CEO at [Karn & Co.](https://github.com/karnco) 
+
 <!--
 
 **Here are some ideas to get you started:**
