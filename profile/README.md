@@ -1,4 +1,4 @@
-# `α` Karn & Co.
+# `α` | `Karn & Co.`
 ### A non-real *(as of now)* corporation by [`@Raghav Karn`](https://github.com/raghav-karn).
 
 We can be the next ones to *dent the universe*, make groundbreaking impacts. Here's our motives and beliefs:
@@ -6,9 +6,9 @@ We can be the next ones to *dent the universe*, make groundbreaking impacts. Her
 > "If you want to do something in your lives, why not make it *beautiful*?"
 - Be **creative** with workarounds, avoid compromises.
 - **Simple and minimal design** is the best design. Material design is not bad.
-> "Simplicity is ultimate sophistication."
+> "Simplicity is ultimate *sophistication*."
 - Remember,
-> "Nothing is impossible. Even 'impossible' says, 'I'm possible.'"
+> "Nothing is impossible. Even 'impossible' says, '*I'm possible*.' "
 
 ---
 
